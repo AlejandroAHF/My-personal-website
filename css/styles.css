@@ -39,3 +39,7 @@
     font-family: var(--primary-font);
     color: var(--white);
 }
+
+section{
+    background-color: var(--primary-color);
+}
